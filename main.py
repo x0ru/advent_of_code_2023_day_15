@@ -79,4 +79,3 @@ for i in h:
         res += (i + 1) * (arr + 1) * int(h[i][arr][1])
 
 ic(res)
-ic(res)
